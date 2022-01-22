@@ -1,0 +1,137 @@
+@charset "utf-8";
+/* CSS Document */
+@media screen and (min-device-width: 1025px) and (max-device-width: 1366px) { 
+    /* STYLES HERE */
+	.main-container{
+	max-width: 1130px;
+}
+	
+	#cssmenu>ul>li>a {
+    padding: 5px 13px;
+    font-size: 14px;
+}
+	#cssmenu>ul>li.has-sub>a::after {  
+    top: 5px;
+	}
+	.homeBox h3 {
+		font-size: 25px;
+		margin-bottom: 20px;
+	}
+	.aboutTheCenterBox {   
+    font-size: 16px;
+}
+	.eventBox ul li {
+	padding: 20px 0px;
+	font-size: 13px;
+  
+}
+	
+	.researchParadigms {
+  
+    font-size: 13px;
+}
+	.researchParadigms h4 {
+  
+    font-size: 25px;
+    
+}
+	.researchParadigms2 h4{
+		 font-size: 25px;
+	}
+	.researchParadigms2{
+		    font-size: 14px;
+	}
+	.innovationBox h4{		
+    font-size: 25px;
+	}
+	.innovationBox {
+   
+    font-size: 13px;
+}
+	.inchargeMessageBox h1 {
+    font-weight: 200;
+    font-size: 25px;
+    margin-bottom: 20px;
+}
+	.inchargeMessageBox{
+	  font-size: 15px;
+	}
+	.inchargeMessageBox h1 span {
+        font-size: 19px;
+    font-weight: bold;
+}
+	
+	.homebuildingImg img {
+    width: 100%;
+    height: 220px;
+}
+	.inchargeMessageBox{
+		padding: 15px;
+	}
+	
+}
+
+@media all and (max-width: 1024px),
+only screen and (-webkit-min-device-pixel-ratio: 2) and (max-width: 1024px),
+only screen and (min--moz-device-pixel-ratio: 2) and (max-width: 1024px),
+only screen and (-o-min-device-pixel-ratio: 2/1) and (max-width: 1024px),
+only screen and (min-device-pixel-ratio: 2) and (max-width: 1024px),
+only screen and (min-resolution: 192dpi) and (max-width: 1024px),
+only screen and (min-resolution: 2dppx) and (max-width: 1024px) {
+	.dhitext {   
+    padding: 10px 20px;
+    height: auto;
+    line-height: normal;
+}
+	.logo {
+ 
+    padding: 7px 15px;
+   
+}
+	
+	.headerband {
+    position: relative;
+	background-color: #1d255b;
+	margin-top: 1px;
+    
+}
+	
+	
+	.offset-2 {
+    margin-left:0%;
+}
+	.researchParadigms {  
+    height: auto;
+  
+}
+	.researchParadigms .btnlearmore {
+  
+    position: relative;
+   
+		bottom: 0px;
+}
+	.researchInnovation .img-fluid{
+		width: 100%!important;
+	}
+	.researchList{
+		height: auto;
+	}
+	.mainMenu {
+    background-color: rgba(27,38,92,0.90);
+    margin-top: 0px;
+    border-top: 1px solid #fff;
+}
+	footer .ml-5,.ml-5 {
+    padding-left: 0!important;
+}
+	.homeBox{
+		height: auto;
+	}
+	.consortium_researchBox{
+		text-align: center;
+	}
+	.consortium_researchBox img{
+		padding: 15px 0px;
+	}
+  
+}
